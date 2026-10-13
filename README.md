@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola!!! Bienvenido a mi perfil 👋
 
-<!--
-**dechl-98/dechl-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mi descripción
 
-Here are some ideas to get you started:
+:education: **UNIVERSIDAD TECNOLÓGICA DE EL SALVADOR**
+:computer:  **INGENIERÍA EN SISTEMAS Y COMPUTACIÓN**
+:pencil: **PROGRAMACIÓN, DESARROLLO BACKEND, BASES DE DATOS**
+:code: **JAVA, C#, PYTHON**
+:world: **HTML, CSS, JS**
+:table: **MICROSOFT SQL SERVER, POSTGRE SQL**
+:eyeglasses: **Música y deportes como hobbies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+
+:email: [dechl.981995@gmail.com](mailto:dechl.981995@gmail.com)
