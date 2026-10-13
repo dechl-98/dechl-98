@@ -2,12 +2,18 @@
 
 ## Mi descripción
 
-:education: **UNIVERSIDAD TECNOLÓGICA DE EL SALVADOR**
+:mortar_board: **UNIVERSIDAD TECNOLÓGICA DE EL SALVADOR**
+
 :computer:  **INGENIERÍA EN SISTEMAS Y COMPUTACIÓN**
+
 :pencil: **PROGRAMACIÓN, DESARROLLO BACKEND, BASES DE DATOS**
-:code: **JAVA, C#, PYTHON**
-:world: **HTML, CSS, JS**
-:table: **MICROSOFT SQL SERVER, POSTGRE SQL**
+
+:coffee: **JAVA, C#, PYTHON**
+
+:globe_with_meridians: **HTML, CSS, JS**
+
+:card_index_dividers: **MICROSOFT SQL SERVER, POSTGRE SQL**
+
 :eyeglasses: **Música y deportes como hobbies**
 
 ## Contacto
